@@ -5,8 +5,8 @@
 Ce projet est un système de reconnaissance faciale en temps réel avec une interface graphique. Il permet de détecter, reconnaître, enregistrer et supprimer des visages.
 
 ## Auteur
-- **Nom** : Komi Thomas Agboguin
-- **Email** : komythomas@example.com
+- **Nom** : Komi Thomas A.
+- **Email** : komythomas@gmail.com
 - **GitHub** : [komythomas](https://github.com/komythomas)
 
 ## Fonctionnalités

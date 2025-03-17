@@ -1,0 +1,4 @@
+customtkinter
+opencv-python
+face_recognition
+numpy
